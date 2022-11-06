@@ -25,7 +25,7 @@ npm run e2e
 4. Para executar os testes de API:
 ```
 npm run api
-
+```
 
 ## Estrutura
 
