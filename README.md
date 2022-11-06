@@ -82,3 +82,6 @@ challenge K/
 | Trello Api                                    |
 | --------------------------------------------- |
 | Validar chave e valor de list.name            |                                              
+
+
+![e2e-scenario](./assets/e2e.gif)

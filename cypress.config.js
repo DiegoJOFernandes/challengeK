@@ -11,6 +11,10 @@ module.exports = defineConfig({
     baseUrl: "http://automationpractice.com/index.php",
     viewportWidth: 1400,
     viewportHeight: 800,
-    watchForFileChanges: false
+    watchForFileChanges: false,
+    retries:{
+      openMode: 1,
+      runMode:2
+    }
   },
 });
