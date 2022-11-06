@@ -1,0 +1,25 @@
+{
+  "name": "challenge-k",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "npx cypress open",
+    "e2e:headless": "npx cypress run",
+    "api": "npx cypress open -C api.config"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.2.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,
+    "nonGlobalStepBaseDir": "cypress/e2e",
+    "stepDefinitions": "cypress/e2e"
+  }
+}
