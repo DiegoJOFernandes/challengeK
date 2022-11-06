@@ -74,13 +74,11 @@ challenge K/
 
 ### e2e
 
-| Checkout                                      |
-| --------------------------------------------- |
-| Usuário verifica produto na tela de pagamento |
-|                                               |
+| Checkout                                                              |
+| --------------------------------------------------------------------- |
+| Usuário verifica produto adicionado ao carrinho na tela de pagamentos |
 
 ### API
 | Trello Api                                    |
 | --------------------------------------------- |
-| Validar chave e valor de list.name            |
-|                                               |
+| Validar chave e valor de list.name            |                                              
