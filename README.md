@@ -84,4 +84,4 @@ challenge K/
 | Validar chave e valor de list.name            |                                              
 
 
-![e2e-scenario](./assets/e2e.gif)
+<!-- ![e2e-scenario](./assets/e2e.gif) -->
